@@ -1,0 +1,7 @@
+RLCraft_DecentZombie,-3166,-3166,-544,-544
+RLCraft_UndergroundRuin2,-3171,-3161,-549,-542
+RLCraft_DecentSpider,-3391,-3391,-805,-805
+RLCraft_UndergroundRuin3,-3397,-3389,-808,-800
+AbandonedWoodTower,-3414,-3378,-824,-794
+StonePlantMound4,-3416,-3409,-831,-824
+StonePlantMound,-3378,-3373,-861,-856

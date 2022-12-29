@@ -1,0 +1,6 @@
+StonePlantMound2,-5182,-5170,-3977,-3964
+RLCraft_SmallUndergroundSkeleton,-5160,-5152,-3932,-3924
+StonePlantMound,-5188,-5183,-4056,-4051
+WoodWallRemains,-5206,-5178,-4035,-4027
+PeacefulCrypt,-5212,-5196,-3925,-3901
+SmallFortRuins,-5234,-5204,-3968,-3936

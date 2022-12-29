@@ -1,0 +1,3 @@
+ShrineSmallWater,1993,2001,4181,4189
+UndergroundCrypt,1813,1841,4186,4200
+ShrineSmallWater,1714,1722,4161,4169

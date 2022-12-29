@@ -1,0 +1,7 @@
+DinosaurSkull,-2324,-2313,852,871
+P_WizardTower,-2372,-2342,819,849
+StoneLeafMound,-2500,-2491,884,891
+StonePlantMound4,-2518,-2511,878,885
+RLCraft_SmallUndergroundSkeleton,-2318,-2310,737,745
+RLCraft_cryo_bit,-2557,-2532,688,713
+RLCraft_SmallUndergroundSkeleton,-2439,-2431,683,691

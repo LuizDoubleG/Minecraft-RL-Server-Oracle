@@ -1,0 +1,10 @@
+RLCraft_DecentZombie,1063,1063,-1898,-1898
+RLCraft_UndergroundRuin3,1061,1069,-1903,-1895
+ShrineSmallAir,1060,1068,-1899,-1891
+RLCraft_BasicWitch,1044,1044,-2032,-2032
+RLCraft_UndergroundRuin1,1038,1047,-2035,-2026
+IceThorn3,1062,1076,-2046,-2032
+IceThorn1,1161,1177,-2028,-2007
+RLCraft_DecentSpider,1149,1149,-1738,-1738
+RLCraft_UndergroundRuin2,1144,1154,-1743,-1736
+IceThorn4,1070,1086,-1675,-1649

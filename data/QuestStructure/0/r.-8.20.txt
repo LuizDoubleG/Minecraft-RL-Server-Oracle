@@ -1,0 +1,8 @@
+SmallOutpost,-4321,-4299,10298,10328
+RLCraft_DecentSpider,-4256,-4256,10357,10357
+RLCraft_UndergroundRuin2,-4261,-4254,10352,10362
+RLCraft_DecentWitch,-4202,-4202,10466,10466
+RLCraft_UndergroundRuin2,-4204,-4197,10461,10471
+PeacefulCrypt,-4287,-4263,10472,10488
+SmallOutpost,-4378,-4348,10333,10355
+BrickHenge,-4405,-4389,10289,10305

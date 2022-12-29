@@ -1,0 +1,15 @@
+RLCraft_PlainsCamp,565,604,5640,5686
+DesertBeacon,589,595,5852,5858
+ShrineSmallAir,733,741,5769,5777
+MeteorSite,789,819,5823,5838
+P_MayanTemple3,825,869,5802,5855
+RLCraft_DecentCaveSpider,630,630,6050,6050
+RLCraft_UndergroundRuin3,624,632,6047,6055
+BigClockworkSite,861,896,5968,6013
+RLCraft_DecentZombie,899,899,5939,5939
+RLCraft_UndergroundRuin3,897,905,5936,5944
+DinosaurSkull,930,941,5966,5985
+RLCraft_DecentZombie,1012,1012,5998,5998
+RLCraft_UndergroundRuin2,1007,1017,5996,6003
+RLCraft_DecentZombie,925,925,5884,5884
+RLCraft_UndergroundRuin2,923,930,5879,5889

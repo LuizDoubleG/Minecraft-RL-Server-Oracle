@@ -1,0 +1,11 @@
+StonePlantMound4,-2599,-2592,10779,10786
+StonePlantMound1,-2651,-2645,10830,10836
+P_VillageFarmhouse,-2605,-2593,10857,10869
+StonePlantMound3,-2579,-2568,10877,10886
+StonePlantMound,-2670,-2665,10850,10855
+ClayWaterMound1,-2626,-2615,10912,10922
+StonePlantBoulder,-2658,-2648,10911,10921
+ShrineSmallAir,-2692,-2684,10944,10952
+StonePlantMound2,-2648,-2636,11070,11083
+StonePlantBoulder,-2591,-2581,11088,11098
+BlazeSpawnerCrystal,-2761,-2755,11174,11180

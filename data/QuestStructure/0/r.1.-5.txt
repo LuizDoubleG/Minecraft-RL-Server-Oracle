@@ -1,0 +1,3 @@
+IceThorn,723,738,-2596,-2570
+UndergroundCultChamber,821,863,-2668,-2636
+RLCraft_cryo_bit,843,868,-2604,-2579

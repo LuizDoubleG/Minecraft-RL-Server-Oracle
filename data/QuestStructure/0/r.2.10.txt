@@ -1,0 +1,9 @@
+StonePlantBoulder,1335,1345,5131,5141
+RLCraft_SmallUndergroundSkeleton,1148,1156,5229,5237
+ShrineSmallAir,1072,1080,5252,5260
+DinosaurSkull,1170,1181,5300,5319
+StoneBoulder,1375,1384,5154,5163
+RLCraft_DecentCaveSpider,1399,1399,5151,5151
+RLCraft_UndergroundRuin2,1394,1404,5146,5153
+StonePlantMound1,1395,1401,5124,5130
+StonePlantMound1,1456,1462,5205,5211

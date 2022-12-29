@@ -1,0 +1,3 @@
+ShrineSmallFire,-542,-532,3136,3146
+P_LargeShip,-770,-710,3147,3165
+ShrineSmallFire,-892,-882,3124,3134

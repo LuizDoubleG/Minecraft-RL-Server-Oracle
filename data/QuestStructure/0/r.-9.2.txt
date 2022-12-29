@@ -1,0 +1,2 @@
+StonePlantMound4,-4802,-4795,1513,1520
+ShrineSmallWater,-4710,-4702,1392,1400

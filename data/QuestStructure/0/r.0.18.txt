@@ -1,0 +1,6 @@
+ElvenPond,-428,-398,9310,9339
+RLCraft_SmallUndergroundSkeleton,-479,-471,9469,9477
+RLCraft_BasicCaveSpider,-414,-414,9437,9437
+RLCraft_UndergroundRuin1,-417,-408,9431,9440
+DinosaurSkull,-372,-353,9478,9489
+SmallWoodenCottage1,-430,-419,9553,9559

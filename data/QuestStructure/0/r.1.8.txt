@@ -1,0 +1,9 @@
+RLCraft_BasicCaveSpider,947,947,4574,4574
+RLCraft_UndergroundRuin1,941,950,4571,4580
+RLCraft_UndergroundFarm,819,862,4468,4510
+RLCraft_DecentSpider,825,825,4605,4605
+RLCraft_UndergroundRuin2,823,830,4600,4610
+DesertBeacon,847,853,4288,4294
+RLCraft_BasicZombie,580,580,4508,4508
+RLCraft_UndergroundRuin1,574,583,4505,4514
+DesertHut,519,529,4590,4599

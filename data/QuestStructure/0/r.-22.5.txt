@@ -1,0 +1,6 @@
+ClayWaterMound,-11752,-11744,3059,3066
+StonePlantMound2,-11761,-11748,3007,3019
+RLCraft_BasicZombie,-11733,-11733,2826,2826
+RLCraft_UndergroundRuin1,-11739,-11730,2823,2832
+RLCraft_DecentCaveSpider,-11676,-11676,2813,2813
+RLCraft_UndergroundRuin2,-11678,-11671,2808,2818

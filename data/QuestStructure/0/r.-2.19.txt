@@ -1,0 +1,13 @@
+WoodThornBig,-1472,-1459,10169,10182
+StonePlantMound1,-1447,-1441,10087,10093
+StoneBoulder,-1354,-1345,10139,10148
+AbandonedWoodTower,-1514,-1478,9991,10021
+StonePlantMound,-1534,-1529,9836,9841
+RLCraft_SmallUndergroundSkeleton,-1498,-1490,9808,9816
+StoneLeafMound,-1457,-1450,9840,9849
+RLCraft_DecentSpider,-1393,-1393,9758,9758
+RLCraft_UndergroundRuin2,-1395,-1388,9753,9763
+RLCraft_SmallUndergroundSkeleton,-1373,-1365,9847,9855
+RLCraft_SmallUndergroundSkeleton,-1366,-1358,9769,9777
+RLCraft_DecentSpider,-1342,-1342,9784,9784
+RLCraft_UndergroundRuin2,-1347,-1337,9782,9789

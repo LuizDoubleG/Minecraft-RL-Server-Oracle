@@ -1,0 +1,7 @@
+ShrineSmallEarth,265,277,475,487
+P_SmallShip,-52,-32,383,389
+StoneIceBoulder,-16,-7,443,453
+RLCraft_DecentSpider,189,189,-409,-409
+RLCraft_UndergroundRuin3,184,192,-411,-403
+RLCraft_DecentZombie,19,19,494,494
+RLCraft_UndergroundRuin3,16,24,488,496

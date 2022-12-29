@@ -1,0 +1,3 @@
+ShrineSmallWater,1330,1338,-597,-589
+P_AncientTeleporter,1438,1473,-747,-714
+P_LargeShip,1193,1211,-929,-869

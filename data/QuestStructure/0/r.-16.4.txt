@@ -1,0 +1,3 @@
+SmallClockworkSite,-8411,-8392,2116,2138
+StonePlantMound4,-8265,-8258,2291,2298
+StonePlantMound1,-8208,-8202,2361,2367

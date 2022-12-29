@@ -1,0 +1,8 @@
+VillageInn,180,200,3906,3933
+P_VillageFarmhouse,209,221,3915,3927
+VillageHouseRich,229,244,3936,3955
+VillageGuardTower,212,224,3936,3948
+RLCraft_SmallUndergroundSkeleton,170,178,3829,3837
+RLCraft_DecentZombie,119,119,3707,3707
+RLCraft_UndergroundRuin3,116,124,3701,3709
+BigClockworkSite,164,199,3660,3705

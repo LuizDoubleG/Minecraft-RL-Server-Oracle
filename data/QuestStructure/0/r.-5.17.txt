@@ -1,0 +1,8 @@
+P_VillageLibrary,-2576,-2560,9191,9210
+RLCraft_BasicSkeleton,-2607,-2607,9115,9115
+RLCraft_UndergroundRuin1,-2610,-2601,9109,9118
+SpiderPit,-2595,-2585,9151,9160
+SmallAbandonedMine,-2628,-2613,9125,9150
+VillageWoodMill,-2605,-2592,9194,9210
+WoodWallRemains,-2684,-2676,9113,9141
+RLCraft_SmallUndergroundSkeleton,-2699,-2691,9062,9070

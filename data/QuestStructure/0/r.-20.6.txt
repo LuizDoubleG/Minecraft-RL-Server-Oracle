@@ -1,0 +1,5 @@
+UndergroundCrypt,-10522,-10508,3558,3586
+RLCraft_SmallUndergroundSkeleton,-10527,-10519,3552,3560
+RLCraft_BasicZombie,-10515,-10515,3520,3520
+RLCraft_UndergroundRuin1,-10521,-10512,3517,3526
+StoneBoulder,-10678,-10669,3575,3584

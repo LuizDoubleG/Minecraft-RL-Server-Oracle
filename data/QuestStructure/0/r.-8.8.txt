@@ -1,0 +1,9 @@
+RLCraft_FriendlyOutpost,-4409,-4341,4503,4542
+StonePlantMound2,-4417,-4404,4271,4283
+StoneLeafMound,-4432,-4425,4248,4257
+ShrineSmallAir,-4358,-4350,4389,4397
+UndergroundCrypt,-4297,-4269,4289,4303
+P_LargeShip,-4623,-4563,4317,4335
+P_SmallShip,-4312,-4292,4181,4187
+RLCraft_DecentZombie,-4257,-4257,4322,4322
+RLCraft_UndergroundRuin2,-4262,-4252,4317,4324

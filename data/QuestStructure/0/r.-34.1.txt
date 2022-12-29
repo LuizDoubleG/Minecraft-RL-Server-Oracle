@@ -1,0 +1,8 @@
+RLCraft_SmallUndergroundSkeleton,-17685,-17677,999,1007
+ShrineSmallEarth,-17621,-17609,948,960
+SmallWoodenCottage,-17516,-17505,964,972
+ShrineSmallAir,-17434,-17426,999,1007
+StonePlantBoulder,-17420,-17410,961,971
+StonePlantBoulder,-17702,-17692,922,932
+StoneIceBoulder,-17727,-17717,863,872
+StoneIceBoulder1,-17424,-17414,808,818

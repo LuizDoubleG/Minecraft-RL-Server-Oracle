@@ -1,0 +1,12 @@
+StonePlantMound1,3328,3334,4679,4685
+UndergroundCultChamber,3294,3336,4668,4700
+StonePlantMound3,3252,3263,4672,4681
+RLCraft_BasicCaveSpider,3242,3242,4712,4712
+RLCraft_UndergroundRuin1,3239,3248,4709,4718
+RLCraft_DecentCaveSpider,3152,3152,4701,4701
+RLCraft_UndergroundRuin3,3147,3155,4699,4707
+IceThorn4,3390,3406,5027,5053
+RLCraft_DecentSpider,3372,3372,5056,5056
+RLCraft_UndergroundRuin2,3367,3377,5051,5058
+RLCraft_SmallUndergroundSkeleton,3115,3123,5099,5107
+StonePlantMound4,3084,3091,5113,5120

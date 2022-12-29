@@ -1,0 +1,5 @@
+StonePlantMound3,-8342,-8331,3012,3021
+StoneLeafMound,-8395,-8386,3059,3066
+RLCraft_DecentZombie,-8381,-8381,3033,3033
+RLCraft_UndergroundRuin3,-8387,-8379,3030,3038
+StonePlantMound2,-8326,-8314,2986,2999

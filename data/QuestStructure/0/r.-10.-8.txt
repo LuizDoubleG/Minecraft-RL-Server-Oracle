@@ -1,0 +1,5 @@
+StoneLeafMound,-5172,-5165,-4210,-4201
+StonePlantMound,-5166,-5161,-4147,-4142
+StoneLeafMound,-5196,-5187,-4236,-4229
+RLCraft_DecentCaveSpider,-5179,-5179,-4141,-4141
+RLCraft_UndergroundRuin3,-5182,-5174,-4147,-4139

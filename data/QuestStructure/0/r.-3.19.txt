@@ -1,0 +1,11 @@
+StonePlantMound2,-1640,-1627,10229,10241
+StonePlantMound,-1595,-1590,10125,10130
+StonePlantMound1,-1609,-1603,10135,10141
+StonePlantMound4,-1614,-1607,10138,10145
+StonePlantMound,-1621,-1616,10124,10129
+StoneLeafMound,-1609,-1602,10065,10074
+StonePlantBoulder,-1572,-1562,9950,9960
+StonePlantBoulder,-1596,-1586,9906,9916
+StonePlantMound3,-1613,-1604,9905,9916
+StonePlantBoulder,-1667,-1657,10078,10088
+UndergroundTreeoid,-1597,-1571,9763,9786

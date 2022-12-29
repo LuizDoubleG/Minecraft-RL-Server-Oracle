@@ -1,0 +1,4 @@
+StonePlantMound1,-427,-421,-1940,-1934
+StonePlantMound1,-426,-420,-1967,-1961
+StonePlantMound3,-411,-400,-1973,-1964
+StonePlantMound3,-400,-389,-1947,-1938

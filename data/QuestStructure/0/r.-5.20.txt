@@ -1,0 +1,17 @@
+StoneIceBoulder1,-3058,-3048,10393,10403
+RLCraft_DecentWitch,-3034,-3034,10370,10370
+RLCraft_UndergroundRuin2,-3039,-3032,10365,10375
+StoneIceBoulder2,-3057,-3048,10292,10301
+P_IceSkeletonLookout,-2965,-2955,10405,10415
+StoneIceBoulder3,-2961,-2951,10421,10431
+StoneIceBoulder2,-2998,-2989,10462,10471
+StoneIceBoulder,-2945,-2935,10470,10479
+P_WitchDungeon,-2935,-2901,10531,10548
+StoneIceBoulder1,-2944,-2934,10643,10653
+RLCraft_DecentWitch,-2761,-2761,10594,10594
+RLCraft_UndergroundRuin2,-2766,-2756,10592,10599
+RLCraft_BasicCaveSpider,-2743,-2743,10688,10688
+RLCraft_UndergroundRuin1,-2746,-2737,10685,10694
+StonePlantMound3,-2789,-2780,10734,10745
+BlazeSpawnerCrystal,-2759,-2753,10706,10712
+RLCraft_LargeUndergroundTown,-2849,-2736,10615,10752

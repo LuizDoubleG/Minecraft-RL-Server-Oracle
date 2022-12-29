@@ -1,0 +1,10 @@
+RLCraft_UndergroundFarm,2584,2627,-1591,-1549
+RLCraft_SmallUndergroundSkeleton,2959,2967,-1545,-1537
+StoneBoulder,3010,3019,-1717,-1708
+RLCraft_DecentZombie,2875,2875,-1825,-1825
+RLCraft_UndergroundRuin2,2870,2877,-1830,-1820
+RLCraft_SmallUndergroundSkeleton,3040,3048,-1823,-1815
+StonePlantMound1,2920,2926,-1912,-1906
+DinosaurSkull,3046,3057,-1939,-1920
+RLCraft_DecentWitch,2861,2861,-1998,-1998
+RLCraft_UndergroundRuin2,2859,2866,-2003,-1993

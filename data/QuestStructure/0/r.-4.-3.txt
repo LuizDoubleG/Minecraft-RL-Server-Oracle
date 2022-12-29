@@ -1,0 +1,3 @@
+CorruptedEnderTree,-2551,-2538,-1886,-1875
+StonePlantMound,-2521,-2516,-1860,-1855
+StonePlantMound2,-2477,-2464,-1850,-1838

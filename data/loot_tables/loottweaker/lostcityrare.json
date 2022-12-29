@@ -1,0 +1,50 @@
+{
+  "pools": [
+    {
+      "name": "rare",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "minecraft:chests/nether_bridge"
+        },
+        {
+          "entryName": "dragon_ring",
+          "weight": 1,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "xat:dragon_ring"
+        },
+        {
+          "entryName": "loottweaker#3",
+          "weight": 20,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "loottweaker:lowtable"
+        },
+        {
+          "entryName": "loottweaker#2",
+          "weight": 20,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "minecraft:chests/stronghold_corridor"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 3.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+StonePlantMound3,-4069,-4058,-3624,-3615
+StonePlantMound1,-4053,-4047,-3636,-3630
+StoneLeafMound,-4006,-3997,-3627,-3620
+StoneLeafMound,-4059,-4050,-3715,-3708
+RLCraft_BasicWitch,-4055,-4055,-3763,-3763
+RLCraft_UndergroundRuin1,-4061,-4052,-3766,-3757
+StonePlantMound4,-3876,-3869,-4090,-4083
+P_SmallShip,-3972,-3952,-4069,-4063
+ShrineSmallAir,-3951,-3943,-4042,-4034
+ShrineSmallAir,-4043,-4035,-3932,-3924

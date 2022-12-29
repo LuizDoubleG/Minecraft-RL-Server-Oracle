@@ -1,0 +1,7 @@
+ClayWaterMound1,-2367,-2356,1976,1986
+ShrineSmallAir,-2468,-2460,1860,1868
+UndergroundCrypt,-2555,-2527,1867,1881
+P_SmallShip,-2553,-2547,2022,2042
+StonePlantMound1,-2543,-2537,1784,1790
+StonePlantMound1,-2537,-2531,1795,1801
+P_Crater,-2548,-2465,1783,1859

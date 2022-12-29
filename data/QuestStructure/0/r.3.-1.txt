@@ -1,0 +1,6 @@
+ClayWaterMound,1547,1554,-979,-971
+StonePlantMound4,2035,2042,-835,-828
+DesertHut,1839,1849,-679,-670
+RLCraft_DecentWitch,1689,1689,-536,-536
+RLCraft_UndergroundRuin2,1684,1691,-541,-531
+RLCraft_SmallUndergroundSkeleton,1679,1687,-728,-720

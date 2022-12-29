@@ -1,0 +1,71 @@
+{
+  "pools": [
+    {
+      "name": "common",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 1,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "minecraft:chests/spawn_bonus_chest"
+        },
+        {
+          "entryName": "loottweaker#5",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "charm:treasure/uncommon"
+        },
+        {
+          "entryName": "loottweaker#4",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "charm:treasure/common"
+        },
+        {
+          "entryName": "loottweaker#3",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "charm:village/shepherd"
+        },
+        {
+          "entryName": "loottweaker#2",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "charm:village/fisherman"
+        },
+        {
+          "entryName": "faelis_ring",
+          "weight": 1,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "xat:faelis_ring"
+        },
+        {
+          "entryName": "loottweaker#6",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "charm:village/librarian"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 3.0
+      }
+    }
+  ]
+}

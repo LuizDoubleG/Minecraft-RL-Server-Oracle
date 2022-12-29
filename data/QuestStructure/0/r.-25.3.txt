@@ -1,0 +1,6 @@
+WoodWallRemains,-12957,-12929,2014,2022
+RLCraft_BasicCaveSpider,-12979,-12979,2006,2006
+RLCraft_UndergroundRuin1,-12985,-12976,2003,2012
+VillageInn,-13138,-13111,2029,2049
+P_VillageFarmhouse,-13161,-13149,2030,2042
+RLCraft_Vineyard,-13159,-13139,1993,2021

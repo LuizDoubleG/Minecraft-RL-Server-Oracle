@@ -1,0 +1,5 @@
+DinosaurSkull,1798,1809,-5149,-5130
+StonePlantMound4,1839,1846,-5170,-5163
+P_TreeDungeon,1857,1902,-5165,-5123
+VillageInn,1630,1657,-5140,-5120
+StoneBoulder,1777,1786,-5208,-5199

@@ -1,0 +1,11 @@
+StonePlantMound2,930,942,2090,2103
+RLCraft_SmallUndergroundSkeleton,876,884,2110,2118
+StonePlantBoulder,920,930,2126,2136
+StoneBoulder,910,919,2135,2144
+StoneLeafMound,821,830,2143,2150
+StoneBoulder,786,795,2143,2152
+BlazeSpawnerCrystal,738,744,2121,2127
+StonePlantMound,785,790,2180,2185
+StonePlantMound,749,754,2156,2161
+ClayWaterMound,842,849,2500,2508
+StonePlantMound,726,731,2320,2325

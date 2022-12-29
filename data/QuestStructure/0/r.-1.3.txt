@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,-825,-825,1546,1546
+RLCraft_UndergroundRuin3,-830,-822,1540,1548
+StonePlantMound1,-870,-864,1536,1542
+SmallAbandonedMine,-886,-861,1529,1544

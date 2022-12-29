@@ -1,0 +1,13 @@
+StoneMazePathBig,-3083,-3075,4752,4760
+StoneMazePath,-3074,-3072,4743,4745
+StoneMazePath,-3080,-3078,4749,4751
+StoneMazePath,-3080,-3078,4746,4748
+StoneMazePath,-3074,-3072,4755,4757
+StoneMazePath,-3083,-3081,4749,4751
+StoneMazePath,-3080,-3078,4743,4745
+StoneMazePath,-3083,-3081,4746,4748
+StoneMazePath,-3077,-3075,4743,4745
+StoneMazeSpiderRoom,-3077,-3072,4746,4751
+RLCraft_SmallUndergroundSkeleton,-3352,-3344,4792,4800
+StonePlantBoulder,-3339,-3329,4825,4835
+RLCraft_SmallUndergroundSkeleton,-3402,-3394,4829,4837

@@ -1,0 +1,4 @@
+ShrineSmallAir,-3969,-3961,4676,4684
+VillageMarketplace,-3959,-3945,4833,4847
+ShrineSmallWater,-3609,-3601,4605,4613
+RLCraft_UndergroundFarm,-3672,-3629,4595,4637

@@ -1,0 +1,7 @@
+StonePlantMound4,-1494,-1487,10892,10899
+Tree_Oak_TheMushroomOak_v3,-1543,-1484,10865,10915
+RLCraft_DecentZombie,-1483,-1483,10844,10844
+RLCraft_UndergroundRuin2,-1485,-1478,10839,10849
+ShrineSmallEarth,-1485,-1473,10746,10758
+StonePlantMound4,-1432,-1425,10867,10874
+StoneLeafMound,-1408,-1401,10846,10855

@@ -1,0 +1,5 @@
+RLCraft_UndergroundFarm,-1650,-1608,2372,2415
+RLCraft_BasicSpider,-1642,-1642,2182,2182
+RLCraft_UndergroundRuin1,-1645,-1636,2179,2188
+StonePlantMound2,-1866,-1853,2499,2511
+DinosaurSkull,-2005,-1986,2523,2534

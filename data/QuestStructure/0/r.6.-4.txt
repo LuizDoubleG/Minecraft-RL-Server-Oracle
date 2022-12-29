@@ -1,0 +1,11 @@
+RLCraft_DecentZombie,3255,3255,-2210,-2210
+RLCraft_UndergroundRuin3,3252,3260,-2212,-2204
+RLCraft_DecentCaveSpider,3259,3259,-2163,-2163
+RLCraft_UndergroundRuin2,3254,3261,-2168,-2158
+StonePlantMound1,3088,3094,-2422,-2416
+RLCraft_DecentSkeleton,3225,3225,-2412,-2412
+RLCraft_UndergroundRuin2,3220,3230,-2414,-2407
+RLCraft_DecentSpider,3166,3166,-2525,-2525
+RLCraft_UndergroundRuin3,3160,3168,-2528,-2520
+RLCraft_DecentSkeleton,3319,3319,-2487,-2487
+RLCraft_UndergroundRuin3,3317,3325,-2492,-2484

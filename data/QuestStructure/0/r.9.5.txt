@@ -1,0 +1,15 @@
+StonePlantMound1,4691,4697,2674,2680
+P_VillageFarmhouse,4671,4683,2729,2741
+StonePlantMound1,4694,4700,2719,2725
+StonePlantBoulder,4704,4714,2747,2757
+VillageForgeLarge,4717,4733,2758,2770
+RLCraft_UndergroundFarm,4739,4782,2586,2628
+VillageWoodMill,4694,4710,2763,2776
+VillageGuardTower,4674,4686,2788,2800
+Tree_Oak_TheMushroomOak_v3,4808,4867,2580,2630
+VillageTriplets,4673,4687,2801,2815
+RLCraft_UndergroundFarm,4789,4831,2558,2601
+SpiderPit,4617,4626,2754,2764
+StonePlantMound2,4624,4637,2839,2851
+StoneLeafMound,4629,4636,2873,2882
+StonePlantMound1,4696,4702,2887,2893

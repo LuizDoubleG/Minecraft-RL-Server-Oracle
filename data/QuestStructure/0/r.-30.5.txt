@@ -1,0 +1,14 @@
+ClayWaterMound,-15455,-15448,2779,2787
+StonePlantMound4,-15507,-15500,2571,2578
+StonePlantMound1,-15521,-15515,2589,2595
+StoneLeafMound,-15550,-15541,2599,2606
+RLCraft_BasicSkeleton,-15530,-15530,2659,2659
+RLCraft_UndergroundRuin1,-15536,-15527,2653,2662
+StonePlantMound,-15629,-15624,2585,2590
+RLCraft_SmallUndergroundSkeleton,-15675,-15667,2563,2571
+StonePlantMound1,-15600,-15594,2616,2622
+ShrineSmallFire,-15539,-15529,2659,2669
+StonePlantMound4,-15523,-15516,2681,2688
+StonePlantMound4,-15684,-15677,2699,2706
+StonePlantMound,-15832,-15827,2594,2599
+SmallWoodenCottage2,-15782,-15774,2714,2722

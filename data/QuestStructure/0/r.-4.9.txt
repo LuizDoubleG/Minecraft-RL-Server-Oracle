@@ -1,0 +1,15 @@
+PeacefulCrypt,-2236,-2220,5091,5115
+StonePlantBoulder,-2252,-2242,5113,5123
+P_RuinedHouse,-2393,-2368,5105,5122
+StonePlantMound1,-2425,-2419,5068,5074
+RLCraft_DecentSkeleton,-2435,-2435,5048,5048
+RLCraft_UndergroundRuin3,-2441,-2433,5043,5051
+RLCraft_DecentZombie,-2066,-2066,4815,4815
+RLCraft_UndergroundRuin3,-2071,-2063,4809,4817
+DinosaurSkull,-2136,-2117,4839,4850
+StonePlantMound3,-2105,-2096,4776,4787
+StonePlantMound3,-2185,-2174,4724,4733
+RLCraft_SmallUndergroundSkeleton,-2082,-2074,4747,4755
+StonePlantMound2,-2070,-2057,4713,4725
+DinosaurSkull,-2159,-2140,4652,4663
+StonePlantMound2,-2189,-2177,4639,4652

@@ -1,0 +1,3 @@
+RLCraft_BasicSkeleton,884,884,7265,7265
+RLCraft_UndergroundRuin1,881,890,7262,7271
+ShrineSmallWater,654,662,7294,7302

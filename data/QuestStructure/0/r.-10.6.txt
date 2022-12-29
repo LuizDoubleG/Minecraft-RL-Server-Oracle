@@ -1,0 +1,13 @@
+RLCraft_DecentCaveSpider,-5218,-5218,3418,3418
+RLCraft_UndergroundRuin2,-5220,-5213,3413,3423
+RLCraft_PlainsCamp,-5285,-5246,3295,3341
+DinosaurSkull,-5421,-5402,3118,3129
+RLCraft_DecentWitch,-5319,-5319,3307,3307
+RLCraft_UndergroundRuin3,-5322,-5314,3305,3313
+StonePlantMound3,-5437,-5426,3162,3171
+RLCraft_SmallUndergroundSkeleton,-5405,-5397,3326,3334
+RLCraft_DecentSpider,-5510,-5510,3278,3278
+RLCraft_UndergroundRuin2,-5515,-5505,3276,3283
+StonePlantMound4,-5504,-5497,3361,3368
+DesertHut,-5535,-5525,3395,3404
+SmallWoodenCottage2,-5609,-5601,3327,3335

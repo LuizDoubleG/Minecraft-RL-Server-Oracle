@@ -1,0 +1,57 @@
+{
+  "pools": [
+    {
+      "name": "ground",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "minecraft:chests/woodland_mansion"
+        },
+        {
+          "entryName": "elf_ring",
+          "weight": 1,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "xat:elf_ring"
+        },
+        {
+          "entryName": "loottweaker#4",
+          "weight": 20,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "loottweaker:medtable"
+        },
+        {
+          "entryName": "loottweaker#3",
+          "weight": 5,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "charm:village/farmer"
+        },
+        {
+          "entryName": "loottweaker#2",
+          "weight": 15,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "minecraft:chests/igloo_chest"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 3.0
+      }
+    }
+  ]
+}

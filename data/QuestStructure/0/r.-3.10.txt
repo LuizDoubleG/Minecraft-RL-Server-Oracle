@@ -1,0 +1,15 @@
+ShrineSmallAir,-1564,-1556,5130,5138
+P_IslandCity,-1738,-1404,4998,5304
+RLCraft_BasicSkeleton,-1618,-1618,5330,5330
+RLCraft_UndergroundRuin1,-1624,-1615,5324,5333
+DinosaurSkeleton,-1709,-1663,5318,5327
+ShrineSmallFire,-1755,-1745,5121,5131
+RLCraft_BasicSkeleton,-1759,-1759,5160,5160
+RLCraft_UndergroundRuin1,-1762,-1753,5154,5163
+StonePlantMound,-1816,-1811,5271,5276
+ShrineSmallAir,-1818,-1810,5308,5316
+StonePlantMound4,-1821,-1814,5267,5274
+RLCraft_SmallUndergroundSkeleton,-1918,-1910,5175,5183
+ClayWaterMound1,-1963,-1952,5150,5160
+SmallOutpost,-1878,-1856,5351,5381
+StonePlantMound,-2041,-2036,5296,5301

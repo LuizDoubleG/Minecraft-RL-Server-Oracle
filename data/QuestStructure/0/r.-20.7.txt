@@ -1,0 +1,7 @@
+ClayWaterMound,-10539,-10532,3621,3629
+RLCraft_DecentWitch,-10523,-10523,3744,3744
+RLCraft_UndergroundRuin3,-10525,-10517,3741,3749
+StoneLeafMound,-10630,-10623,3610,3619
+IceThorn1,-10651,-10630,3661,3677
+StonePlantMound3,-10663,-10654,3607,3618
+RLCraft_SmallUndergroundSkeleton,-10651,-10643,3818,3826

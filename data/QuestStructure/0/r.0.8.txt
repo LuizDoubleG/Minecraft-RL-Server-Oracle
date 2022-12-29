@@ -1,0 +1,6 @@
+RLCraft_DecentWitch,-340,-340,4414,4414
+RLCraft_UndergroundRuin3,-346,-338,4409,4417
+RLCraft_DecentZombie,-311,-311,4513,4513
+RLCraft_UndergroundRuin2,-316,-309,4508,4518
+RLCraft_BasicSpider,-305,-305,4550,4550
+RLCraft_UndergroundRuin1,-311,-302,4547,4556

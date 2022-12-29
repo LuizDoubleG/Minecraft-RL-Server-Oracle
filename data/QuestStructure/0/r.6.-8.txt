@@ -1,0 +1,3 @@
+RLCraft_BasicZombie,3454,3454,-4267,-4267
+RLCraft_UndergroundRuin1,3448,3457,-4270,-4261
+UndergroundTreeoid,3438,3461,-4141,-4115

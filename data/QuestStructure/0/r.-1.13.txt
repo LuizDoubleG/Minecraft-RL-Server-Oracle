@@ -1,0 +1,4 @@
+StonePlantMound1,-738,-732,6978,6984
+StonePlantMound1,-764,-758,7082,7088
+ShrineSmallWater,-801,-793,7107,7115
+RLCraft_UndergroundFarm,-642,-599,7119,7161

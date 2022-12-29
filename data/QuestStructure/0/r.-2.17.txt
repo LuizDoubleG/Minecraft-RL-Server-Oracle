@@ -1,0 +1,17 @@
+RLCraft_UndergroundFarm,-1521,-1478,8795,8837
+StoneBoulder,-1443,-1434,8755,8764
+ShrineSmallEarth,-1502,-1490,8838,8850
+StoneBoulder,-1497,-1488,8863,8872
+RLCraft_DecentWitch,-1524,-1524,8909,8909
+RLCraft_UndergroundRuin2,-1529,-1522,8904,8914
+RLCraft_DecentSkeleton,-1402,-1402,9038,9038
+RLCraft_UndergroundRuin2,-1407,-1397,9033,9040
+RLCraft_DecentSpider,-1305,-1305,9052,9052
+RLCraft_UndergroundRuin2,-1310,-1300,9050,9057
+WoodWallRemains,-1249,-1241,9093,9121
+RLCraft_BasicZombie,-1151,-1151,9177,9177
+RLCraft_UndergroundRuin1,-1154,-1145,9174,9183
+RLCraft_UndergroundFarm,-1228,-1185,8969,9011
+RLCraft_SmallUndergroundSkeleton,-1051,-1043,8999,9007
+BrickHenge,-1114,-1098,9144,9160
+RLCraft_SmallUndergroundSkeleton,-1036,-1028,8976,8984

@@ -1,0 +1,43 @@
+{
+  "pools": [
+    {
+      "name": "highrise",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 25,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "minecraft:chests/stronghold_library"
+        },
+        {
+          "entryName": "fairy_ring",
+          "weight": 1,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "xat:fairy_ring"
+        },
+        {
+          "entryName": "loottweaker#2",
+          "weight": 25,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "loottweaker:hightable"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 3.0
+      }
+    }
+  ]
+}

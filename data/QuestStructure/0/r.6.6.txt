@@ -1,0 +1,2 @@
+P_VillageFarmhouse,3225,3237,3102,3114
+StonePlantBoulder,3071,3081,3484,3494

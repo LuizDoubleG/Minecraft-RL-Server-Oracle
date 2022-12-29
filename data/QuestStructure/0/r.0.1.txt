@@ -1,0 +1,10 @@
+StoneIceBoulder3,312,322,582,592
+AbandonedWoodTower,95,131,579,609
+RLCraft_DecentSkeleton,149,149,677,677
+StoneIceBoulder,148,158,672,681
+RLCraft_UndergroundRuin3,147,155,674,682
+IceThorn3,125,139,658,672
+StoneIceBoulder1,50,60,599,609
+RLCraft_BasicSpider,152,152,689,689
+RLCraft_UndergroundRuin1,149,158,683,692
+StoneIceBoulder3,73,83,693,703

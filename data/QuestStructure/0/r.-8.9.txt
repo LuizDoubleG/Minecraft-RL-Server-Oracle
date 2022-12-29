@@ -1,0 +1,12 @@
+RLCraft_SmallUndergroundSkeleton,-4412,-4404,4677,4685
+StonePlantMound4,-4433,-4426,4755,4762
+P_VillageFarmhouse,-4528,-4516,4806,4818
+VillageTriplets,-4517,-4503,4791,4805
+P_VillageInn,-4535,-4524,4784,4793
+RLCraft_BasicSkeleton,-4297,-4297,4698,4698
+RLCraft_UndergroundRuin1,-4300,-4291,4692,4701
+VillageWoodMill,-4554,-4538,4784,4797
+StonePlantMound3,-4588,-4577,4805,4814
+StonePlantMound1,-4496,-4490,4829,4835
+SmallWoodenCottage1,-4409,-4398,4830,4836
+StonePlantMound1,-4506,-4500,4867,4873

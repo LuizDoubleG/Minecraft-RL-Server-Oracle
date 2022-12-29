@@ -1,0 +1,4 @@
+StonePlantMound3,-2604,-2593,-2107,-2098
+StonePlantMound2,-2582,-2569,-2114,-2102
+StonePlantMound2,-2759,-2747,-2141,-2128
+StonePlantMound3,-2739,-2730,-2158,-2147

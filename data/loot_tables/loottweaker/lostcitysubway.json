@@ -1,0 +1,50 @@
+{
+  "pools": [
+    {
+      "name": "subway",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "minecraft:chests/abandoned_mineshaft"
+        },
+        {
+          "entryName": "goblin_ring",
+          "weight": 1,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "xat:goblin_ring"
+        },
+        {
+          "entryName": "loottweaker#3",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "charm:treasure/common_potions"
+        },
+        {
+          "entryName": "loottweaker#2",
+          "weight": 10,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "iceandfire:fire_dragon_cave"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 3.0
+      }
+    }
+  ]
+}

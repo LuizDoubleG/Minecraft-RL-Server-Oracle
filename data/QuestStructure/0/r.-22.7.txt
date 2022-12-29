@@ -1,0 +1,5 @@
+RLCraft_UndergroundFarm,-11319,-11276,3606,3648
+RLCraft_SmallUndergroundSkeleton,-11384,-11376,3598,3606
+StoneIceBoulder1,-11437,-11427,3593,3603
+RLCraft_BasicCaveSpider,-11551,-11551,3604,3604
+RLCraft_UndergroundRuin1,-11557,-11548,3598,3607

@@ -1,0 +1,4 @@
+StonePlantMound3,4520,4529,-1674,-1663
+StonePlantMound3,4519,4528,-1707,-1696
+StonePlantMound2,4540,4553,-1706,-1694
+StoneLeafMound,4600,4609,-1689,-1682

@@ -1,0 +1,15 @@
+RLCraft_SmallUndergroundSkeleton,-18449,-18441,1311,1319
+StoneIceBoulder2,-18488,-18479,1242,1251
+MeteorSite,-18534,-18519,1370,1400
+StoneIceBoulder1,-18581,-18571,1270,1280
+DinosaurSkull,-18544,-18525,1137,1148
+RLCraft_DecentZombie,-18636,-18636,1300,1300
+RLCraft_UndergroundRuin2,-18641,-18631,1295,1302
+StoneIceBoulder1,-18602,-18592,1142,1152
+ShrineSmallFire,-18561,-18551,1139,1149
+RLCraft_LargeUndergroundTown,-18785,-18648,1301,1414
+DinosaurSkull,-18795,-18784,1169,1188
+StoneIceBoulder3,-18814,-18804,1330,1340
+StoneIceBoulder1,-18830,-18820,1330,1340
+ShrineSmallFire,-18832,-18822,1374,1384
+RLCraft_FriendlyOutpost,-18917,-18878,1299,1367

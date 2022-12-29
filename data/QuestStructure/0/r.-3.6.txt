@@ -1,0 +1,3 @@
+FallenPalmTree,-1574,-1570,3147,3157
+StatueTemple,-1771,-1700,3493,3595
+RLCraft_UndergroundFarm,-1902,-1859,3412,3454

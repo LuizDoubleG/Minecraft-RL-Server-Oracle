@@ -1,0 +1,8 @@
+ClayWaterMound1,-1544,-1534,-1502,-1491
+StonePlantMound2,-1647,-1634,-1421,-1409
+WoodThorn,-1664,-1653,-1438,-1427
+StoneBoulder,-1546,-1537,-1350,-1341
+RLCraft_DecentCaveSpider,-1580,-1580,-1341,-1341
+RLCraft_UndergroundRuin3,-1586,-1578,-1346,-1338
+StonePlantMound4,-1698,-1691,-1427,-1420
+StonePlantMound4,-1654,-1647,-1341,-1334

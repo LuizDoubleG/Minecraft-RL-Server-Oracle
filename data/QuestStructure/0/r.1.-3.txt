@@ -1,0 +1,10 @@
+CuboneSkull,988,1046,-1930,-1869
+DinosaurSkeleton,916,962,-1899,-1890
+StoneIceBoulder2,910,919,-2014,-2005
+RLCraft_BasicCaveSpider,942,942,-1738,-1738
+RLCraft_UndergroundRuin1,936,945,-1744,-1735
+RLCraft_SmallUndergroundSkeleton,885,893,-1668,-1660
+StoneIceBoulder2,873,882,-2024,-2015
+MonolythUnholy,847,861,-1887,-1873
+SmallOutpost,745,767,-1992,-1962
+IceThorn3,729,743,-2021,-2007

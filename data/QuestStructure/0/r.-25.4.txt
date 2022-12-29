@@ -1,0 +1,10 @@
+StonePlantBoulder,-12928,-12918,2064,2074
+DesertWatchtower,-13023,-13013,2091,2101
+UndergroundCultChamber,-13063,-13031,2266,2308
+VillageWoodMill,-13100,-13084,2059,2072
+VillageHouseRich,-13118,-13103,2086,2105
+StonePlantBoulder,-13094,-13084,2305,2315
+VillageForgeLarge,-13130,-13118,2058,2074
+P_VillageHouse,-13130,-13121,2109,2120
+P_Village2Story,-13130,-13124,2088,2101
+ShrineSmallWater,-13312,-13304,2225,2233

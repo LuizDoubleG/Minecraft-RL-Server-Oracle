@@ -1,0 +1,12 @@
+RLCraft_SmallUndergroundSkeleton,-11268,-11260,3570,3578
+BlazeSpawnerCrystal,-11413,-11407,3538,3544
+RLCraft_BasicWitch,-11431,-11431,3560,3560
+RLCraft_UndergroundRuin1,-11434,-11425,3557,3566
+DinosaurSkeleton,-11714,-11705,3386,3432
+StoneIceBoulder,-11721,-11711,3353,3362
+IceThorn2,-11506,-11494,3295,3305
+StoneIceBoulder,-11400,-11391,3329,3339
+StonePlantMound2,-11689,-11677,3154,3167
+StoneLeafMound,-11709,-11702,3144,3153
+StonePlantMound1,-11757,-11751,3167,3173
+StoneBoulder,-11750,-11741,3154,3163

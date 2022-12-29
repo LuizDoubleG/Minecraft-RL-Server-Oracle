@@ -1,0 +1,10 @@
+StonePlantMound,2554,2559,-1508,-1503
+StoneBoulder,2489,2498,-1275,-1266
+StoneBoulder,2494,2503,-1334,-1325
+UndergroundTreeoid,2451,2474,-1135,-1109
+DinosaurSkull,2415,2426,-1223,-1204
+StoneLeafMound,2409,2416,-1349,-1340
+RLCraft_SmallUndergroundSkeleton,2361,2369,-1298,-1290
+StonePlantMound,2511,2516,-1382,-1377
+RLCraft_4Towers,2329,2381,-1233,-1173
+WoodWallRemains,2465,2493,-1403,-1395

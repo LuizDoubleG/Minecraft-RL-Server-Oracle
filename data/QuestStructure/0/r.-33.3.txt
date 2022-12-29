@@ -1,0 +1,12 @@
+SmallWoodenCottage,-16987,-16976,2014,2022
+RLCraft_DecentSkeleton,-17032,-17032,2021,2021
+RLCraft_UndergroundRuin3,-17034,-17026,2018,2026
+RLCraft_DecentWitch,-17135,-17135,2010,2010
+RLCraft_UndergroundRuin3,-17140,-17132,2004,2012
+BrickHenge,-17123,-17107,1970,1986
+RLCraft_DecentSkeleton,-17298,-17298,2017,2017
+RLCraft_UndergroundRuin3,-17301,-17293,2011,2019
+StoneIceBoulder2,-17324,-17315,1829,1838
+RLCraft_DecentSkeleton,-17293,-17293,1784,1784
+RLCraft_UndergroundRuin3,-17295,-17287,1781,1789
+StoneIceBoulder3,-17397,-17387,1627,1637

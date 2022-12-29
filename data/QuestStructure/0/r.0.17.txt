@@ -1,0 +1,6 @@
+P_WitchDungeon,-525,-491,9190,9207
+RLCraft_BasicSkeleton,-421,-421,9213,9213
+RLCraft_UndergroundRuin1,-424,-415,9207,9216
+ShrineSmallEarth,-455,-443,9182,9194
+RLCraft_DecentWitch,-379,-379,9167,9167
+RLCraft_UndergroundRuin2,-384,-374,9162,9169

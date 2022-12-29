@@ -1,0 +1,7 @@
+StoneLeafMound,3012,3019,3381,3390
+StoneLeafMound,2857,2864,3391,3400
+StoneBoulder,3023,3032,3488,3497
+RLCraft_BasicWitch,2843,2843,3503,3503
+RLCraft_UndergroundRuin1,2840,2849,3497,3506
+StonePlantMound,2947,2952,3507,3512
+StonePlantBoulder,3050,3060,3503,3513

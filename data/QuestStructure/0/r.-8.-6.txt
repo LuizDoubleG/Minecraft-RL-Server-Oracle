@@ -1,0 +1,9 @@
+RLCraft_UndergroundFarm,-4347,-4305,-3577,-3534
+StonePlantBoulder,-4307,-4297,-3497,-3487
+StonePlantMound4,-4246,-4239,-3530,-3523
+StonePlantMound2,-4231,-4218,-3527,-3515
+StoneBoulder,-4159,-4150,-3556,-3547
+MysticalTree,-4156,-4140,-3505,-3490
+OldWatchtower,-4279,-4267,-3404,-3391
+StonePlantMound2,-4124,-4111,-3499,-3487
+StonePlantMound,-4379,-4374,-3401,-3396

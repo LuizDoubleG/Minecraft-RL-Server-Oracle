@@ -1,0 +1,15 @@
+StonePlantMound2,-1271,-1259,4632,4645
+MeteorSite,-1245,-1215,4631,4646
+StonePlantMound3,-1251,-1242,4680,4691
+RLCraft_DecentSpider,-1447,-1447,4687,4687
+RLCraft_UndergroundRuin3,-1453,-1445,4684,4692
+RLCraft_Vineyard,-1240,-1212,4950,4970
+SeasonsGreenhouse,-1242,-1230,4927,4937
+VillageWoodMill,-1278,-1265,4950,4966
+VillageForgeLarge,-1278,-1266,4969,4985
+VillageTriplets,-1300,-1286,4978,4992
+StonePlantMound1,-1278,-1272,5012,5018
+RLCraft_UndergroundFarm,-1311,-1268,5030,5072
+RLCraft_UndergroundFarm,-1446,-1403,4783,4825
+P_WitchDungeon,-1544,-1510,4741,4758
+ClayWaterMound1,-1080,-1069,4683,4693

@@ -1,0 +1,9 @@
+RLCraft_BasicSpider,-4909,-4909,3336,3336
+RLCraft_UndergroundRuin1,-4912,-4903,3330,3339
+BrickHenge,-4712,-4696,3445,3461
+StoneBoulder,-4741,-4732,3471,3480
+StoneBoulder,-4795,-4786,3460,3469
+StonePlantMound3,-4808,-4799,3467,3478
+RLCraft_DecentCaveSpider,-4626,-4626,3250,3250
+RLCraft_UndergroundRuin2,-4631,-4621,3248,3255
+SmallWoodenCottage2,-4960,-4952,3464,3472

@@ -1,0 +1,3 @@
+StonePlantMound4,2385,2392,874,881
+VillageTriplets,2374,2388,660,674
+VillageHouseRich1,2352,2373,660,678

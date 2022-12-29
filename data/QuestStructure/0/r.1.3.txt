@@ -1,0 +1,4 @@
+StonePlantMound1,834,840,2041,2047
+RLCraft_DecentCaveSpider,809,809,1994,1994
+RLCraft_UndergroundRuin3,803,811,1991,1999
+StonePlantBoulder,782,792,1993,2003

@@ -1,0 +1,8 @@
+RLCraft_FriendlyOutpost,-12383,-12344,2602,2670
+VillageHouseRich1,-12487,-12466,2570,2588
+ShrineSmallAir,-12384,-12376,2733,2741
+P_VillageInn,-12498,-12489,2571,2582
+VillageMarketplace,-12519,-12505,2598,2612
+P_VillageFarmhouse,-12538,-12526,2633,2645
+RLCraft_Vineyard,-12551,-12523,2662,2682
+StoneLeafMound,-12443,-12434,2778,2785

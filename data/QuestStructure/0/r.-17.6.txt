@@ -1,0 +1,8 @@
+RLCraft_SmallUndergroundSkeleton,-8737,-8729,3570,3578
+StonePlantMound4,-8776,-8769,3423,3430
+Tree_Oak_TheMushroomOak_v3,-8777,-8727,3395,3454
+StonePlantMound,-8805,-8800,3567,3572
+StoneLeafMound,-8813,-8806,3543,3552
+StonePlantMound4,-8813,-8806,3566,3573
+StonePlantMound1,-8852,-8846,3469,3475
+StonePlantMound1,-8962,-8956,3543,3549

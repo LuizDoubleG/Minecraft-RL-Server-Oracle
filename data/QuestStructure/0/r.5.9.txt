@@ -1,0 +1,5 @@
+BlazeSpawnerCrystal,3046,3052,4894,4900
+RLCraft_BasicCaveSpider,2993,2993,5002,5002
+RLCraft_UndergroundRuin1,2987,2996,4999,5008
+RLCraft_DecentSpider,2936,2936,5064,5064
+RLCraft_UndergroundRuin2,2931,2941,5062,5069

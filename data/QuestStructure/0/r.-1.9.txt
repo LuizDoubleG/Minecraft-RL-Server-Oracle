@@ -1,0 +1,7 @@
+RLCraft_BasicWitch,-559,-559,4995,4995
+RLCraft_UndergroundRuin1,-562,-553,4992,5001
+MeteorSite,-639,-609,4868,4883
+DesertBeacon,-555,-549,4842,4848
+MeteorSite,-932,-917,4994,5024
+P_WitchDungeon,-936,-902,5042,5059
+VillageWoodMill,-1002,-986,4679,4692

@@ -1,0 +1,6 @@
+P_VillageBlacksmith,-877,-844,4073,4087
+SeasonsGreenhouse,-890,-878,4074,4084
+SmallWoodenCottage1,-884,-873,4053,4059
+RLCraft_DecentCaveSpider,-815,-815,4041,4041
+RLCraft_UndergroundRuin3,-820,-812,4035,4043
+UndergroundCultChamber,-828,-786,3941,3973

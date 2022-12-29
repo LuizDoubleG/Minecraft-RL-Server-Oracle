@@ -1,0 +1,5 @@
+MeteorSite,4607,4637,-2436,-2421
+DesertBeacon,4724,4730,-2558,-2552
+RLCraft_DecentSkeleton,4611,4611,-2392,-2392
+RLCraft_UndergroundRuin2,4606,4616,-2394,-2387
+P_Crater,4619,4702,-2310,-2234

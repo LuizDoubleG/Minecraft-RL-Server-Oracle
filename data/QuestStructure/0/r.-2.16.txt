@@ -1,0 +1,15 @@
+StonePlantBoulder,-1335,-1325,8199,8209
+StonePlantBoulder,-1255,-1245,8253,8263
+StoneLeafMound,-1392,-1385,8215,8224
+StonePlantBoulder,-1435,-1425,8260,8270
+MysticalTree2,-1512,-1502,8239,8249
+StonePlantMound3,-1474,-1465,8281,8292
+StonePlantMound2,-1526,-1514,8239,8252
+ClayWaterMound1,-1527,-1517,8265,8276
+StonePlantMound3,-1320,-1309,8318,8327
+StonePlantMound,-1313,-1308,8353,8358
+SmallWoodenCottage,-1288,-1280,8407,8418
+StonePlantMound3,-1538,-1527,8467,8476
+RLCraft_BasicWitch,-1514,-1514,8626,8626
+RLCraft_UndergroundRuin1,-1517,-1508,8620,8629
+StoneLeafMound,-1474,-1465,8697,8704

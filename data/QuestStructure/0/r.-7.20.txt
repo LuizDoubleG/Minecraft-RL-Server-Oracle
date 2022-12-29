@@ -1,0 +1,8 @@
+RLCraft_SmallUndergroundSkeleton,-3798,-3790,10412,10420
+SmallWoodenCottage1,-3740,-3729,10342,10348
+DinosaurSkeleton,-3651,-3605,10258,10267
+StoneIceBoulder,-3632,-3622,10318,10327
+ShrineSmallFire,-3631,-3621,10435,10445
+WitchPillars,-3688,-3671,10572,10589
+StonePlantMound2,-3711,-3698,10600,10612
+StonePlantMound,-3690,-3685,10600,10605

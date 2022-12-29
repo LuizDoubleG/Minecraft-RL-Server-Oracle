@@ -1,0 +1,11 @@
+StonePlantMound,-16911,-16906,2226,2231
+StoneIceBoulder,-16911,-16902,2412,2422
+StonePlantMound2,-16907,-16894,2209,2221
+RLCraft_DecentZombie,-16972,-16972,2223,2223
+RLCraft_UndergroundRuin2,-16977,-16967,2221,2228
+StonePlantBoulder,-16905,-16895,2130,2140
+RLCraft_BasicSkeleton,-17061,-17061,2239,2239
+RLCraft_UndergroundRuin1,-17067,-17058,2233,2242
+AbandonedWoodTower,-17141,-17105,2057,2087
+DinosaurSkull,-17322,-17303,2115,2126
+IceThorn,-17363,-17348,2137,2163

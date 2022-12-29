@@ -1,0 +1,15 @@
+RLCraft_DecentWitch,-4001,-4001,1965,1965
+RLCraft_UndergroundRuin3,-4006,-3998,1963,1971
+ShrineSmallAir,-3990,-3982,1838,1846
+RLCraft_SmallUndergroundSkeleton,-3804,-3796,1914,1922
+RLCraft_SmallUndergroundSkeleton,-3922,-3914,1793,1801
+StonePlantMound4,-3766,-3759,1957,1964
+StonePlantBoulder,-3697,-3687,1973,1983
+RLCraft_SmallUndergroundSkeleton,-3666,-3658,1852,1860
+StonePlantMound2,-3674,-3661,1956,1968
+WoodThornBig,-3673,-3660,1939,1952
+RLCraft_BasicSpider,-3671,-3671,1923,1923
+RLCraft_UndergroundRuin1,-3674,-3665,1917,1926
+StonePlantBoulder,-3614,-3604,1795,1805
+ShrineSmallAir,-3612,-3604,2009,2017
+StonePlantMound2,-3659,-3646,1763,1775

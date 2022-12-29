@@ -1,0 +1,3 @@
+ShrineSmallWater,1454,1462,-1370,-1362
+RLCraft_DecentWitch,1448,1448,-1373,-1373
+RLCraft_UndergroundRuin3,1443,1451,-1379,-1371

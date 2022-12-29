@@ -1,0 +1,10 @@
+StoneBoulder,-715,-706,7760,7769
+StonePlantMound3,-804,-795,7765,7776
+DinosaurSkeleton,-761,-715,7807,7816
+ClayWaterMound1,-835,-825,7748,7759
+ShrineSmallAir,-801,-793,7978,7986
+StonePlantMound3,-963,-952,7991,8000
+BrickHenge,-994,-978,7951,7967
+RLCraft_DecentWitch,-999,-999,7702,7702
+RLCraft_UndergroundRuin2,-1004,-994,7700,7707
+StonePlantMound,-1020,-1015,7721,7726

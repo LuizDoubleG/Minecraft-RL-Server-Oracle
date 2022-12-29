@@ -1,0 +1,16 @@
+RLCraft_UndergroundFarm,2308,2351,-408,-366
+StonePlantMound2,2130,2143,-378,-366
+StonePlantBoulder,2269,2279,-372,-362
+StonePlantBoulder,2152,2162,-335,-325
+RLCraft_BasicSkeleton,2279,2279,-284,-284
+RLCraft_UndergroundRuin1,2276,2285,-290,-281
+StoneLeafMound,2228,2237,-184,-177
+StoneBoulder,2278,2287,-206,-197
+TribalJungleHead,2160,2170,-75,-65
+StonePlantBoulder,2326,2336,-173,-163
+StonePlantBoulder,2348,2358,-215,-205
+AbandonedWoodTower,2274,2304,-74,-38
+StonePlantMound1,2314,2320,-34,-28
+ClayWaterMound1,2322,2333,-59,-49
+StonePlantMound4,2340,2347,-85,-78
+StonePlantMound3,2242,2253,83,92

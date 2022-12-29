@@ -1,0 +1,10 @@
+StoneLeafMound,826,835,-3832,-3825
+StonePlantMound,828,833,-3780,-3775
+StonePlantMound3,862,871,-3846,-3835
+P_SwampHouse,781,811,-3898,-3856
+StonePlantMound2,814,827,-3872,-3860
+StonePlantMound,849,854,-3887,-3882
+StoneLeafMound,867,876,-3877,-3870
+StoneLeafMound,720,729,-3821,-3814
+RLCraft_BasicSpider,696,696,-3632,-3632
+RLCraft_UndergroundRuin1,690,699,-3638,-3629

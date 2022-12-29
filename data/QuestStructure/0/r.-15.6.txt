@@ -1,0 +1,11 @@
+StonePlantMound1,-8040,-8034,3114,3120
+StonePlantMound1,-8064,-8058,3138,3144
+StoneBoulder,-7992,-7983,3085,3094
+StonePlantMound2,-8163,-8151,3203,3216
+RLCraft_BasicCaveSpider,-8170,-8170,3256,3256
+RLCraft_UndergroundRuin1,-8173,-8164,3250,3259
+AbandonedWoodTower,-8184,-8154,3237,3273
+DinosaurSkull,-7961,-7950,3248,3267
+DinosaurSkeleton,-7917,-7871,3371,3380
+StonePlantMound4,-8091,-8084,3267,3274
+StonePlantMound4,-8103,-8096,3311,3318

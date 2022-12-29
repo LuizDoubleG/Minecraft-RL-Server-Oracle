@@ -1,0 +1,8 @@
+ShrineSmallFire,2262,2272,-1708,-1698
+P_Crater,2292,2375,-1703,-1627
+RLCraft_DecentSkeleton,2141,2141,-1642,-1642
+RLCraft_UndergroundRuin2,2136,2146,-1647,-1640
+RLCraft_DecentZombie,2521,2521,-1673,-1673
+RLCraft_UndergroundRuin3,2518,2526,-1675,-1667
+RLCraft_DecentSkeleton,2492,2492,-1597,-1597
+RLCraft_UndergroundRuin2,2487,2494,-1602,-1592

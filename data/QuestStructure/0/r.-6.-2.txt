@@ -1,0 +1,5 @@
+RLCraft_DecentCaveSpider,-3310,-3310,-1287,-1287
+RLCraft_UndergroundRuin3,-3312,-3304,-1292,-1284
+StonePlantMound1,-3295,-3289,-1380,-1374
+DinosaurSkeleton,-3249,-3240,-1334,-1288
+P_WitchDungeon,-3223,-3206,-1359,-1325

@@ -1,0 +1,7 @@
+RLCraft_DecentZombie,-267,-267,7866,7866
+RLCraft_UndergroundRuin2,-272,-262,7861,7868
+ClayWaterMound,-224,-217,7894,7902
+ShrineSmallWater,-18,-10,7959,7967
+BlazeSpawnerCrystal,34,40,7935,7941
+P_LargeShip,26,44,7989,8049
+ShrineSmallWater,-96,-88,7692,7700

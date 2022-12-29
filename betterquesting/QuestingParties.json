@@ -1,0 +1,46 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "3b548553-e0bc-3bc5-8150-1c1a2c0b995e",
+          "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "46ed8917-6b26-34f3-bfd5-ec9b1642d297",
+          "status:8": "MEMBER"
+        },
+        "2:10": {
+          "uuid:8": "427b1f47-b744-39b4-9336-b164744c1f3b",
+          "status:8": "MEMBER"
+        },
+        "3:10": {
+          "uuid:8": "62580882-e921-3696-bcec-42e856c34000",
+          "status:8": "MEMBER"
+        },
+        "4:10": {
+          "uuid:8": "26e1cf61-9ce4-3f6e-9349-ba247141d01a",
+          "status:8": "MEMBER"
+        },
+        "5:10": {
+          "uuid:8": "91912638-68ac-3ba5-afc8-776b3c665bf8",
+          "status:8": "MEMBER"
+        },
+        "6:10": {
+          "uuid:8": "a9112055-33eb-3654-8988-b45842792e3d",
+          "status:8": "OWNER"
+        },
+        "7:10": {
+          "uuid:8": "5ccce28c-9477-39bc-bb0b-b18531eacaf0",
+          "status:8": "MEMBER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Paradise"
+        }
+      }
+    }
+  }
+}

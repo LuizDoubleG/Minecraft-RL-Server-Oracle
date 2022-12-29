@@ -1,0 +1,9 @@
+RLCraft_BasicWitch,345,345,2045,2045
+RLCraft_UndergroundRuin1,342,351,2039,2048
+ShrineSmallWater,204,212,1933,1941
+RLCraft_BasicSkeleton,215,215,1943,1943
+RLCraft_UndergroundRuin1,212,221,1937,1946
+UndergroundTreeoid,-71,-45,1601,1624
+RLCraft_DecentSkeleton,-462,-462,1579,1579
+RLCraft_UndergroundRuin3,-464,-456,1576,1584
+DinosaurSkeleton,-466,-420,1576,1585

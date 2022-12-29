@@ -1,0 +1,2 @@
+StonePlantMound,-1047,-1042,6077,6082
+WoodWallRemains,-1075,-1047,6057,6065

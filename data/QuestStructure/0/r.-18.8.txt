@@ -1,0 +1,5 @@
+StoneLeafMound,-9546,-9539,4096,4105
+StoneBoulder,-9573,-9564,4113,4122
+StonePlantBoulder,-9612,-9602,4107,4117
+StonePlantMound4,-9664,-9657,4100,4107
+MeteorSite,-9568,-9553,4131,4161

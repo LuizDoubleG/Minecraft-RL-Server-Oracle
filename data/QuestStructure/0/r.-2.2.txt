@@ -1,0 +1,4 @@
+VillageHouseRich1,-1045,-1024,1362,1380
+SeasonsGreenhouse,-1043,-1031,1327,1337
+RLCraft_BasicCaveSpider,-1038,-1038,1285,1285
+RLCraft_UndergroundRuin1,-1041,-1032,1282,1291

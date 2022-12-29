@@ -1,0 +1,8 @@
+ElvenPond,-3500,-3471,1095,1125
+VillageLargeLibrary,-3338,-3318,1079,1098
+P_Village2Story,-3344,-3331,1030,1036
+RLCraft_DecentSpider,-3317,-3317,1126,1126
+RLCraft_UndergroundRuin3,-3322,-3314,1124,1132
+P_WitchDungeon,-3327,-3293,1096,1113
+VillageTriplets,-3313,-3299,1058,1072
+DinosaurSkull,-3567,-3556,1082,1101

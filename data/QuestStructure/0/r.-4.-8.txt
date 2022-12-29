@@ -1,0 +1,3 @@
+DinosaurSkull,-2569,-2550,-4231,-4220
+RLCraft_BasicCaveSpider,-2550,-2550,-4585,-4585
+RLCraft_UndergroundRuin1,-2553,-2544,-4588,-4579

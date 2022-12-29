@@ -1,0 +1,2 @@
+RLCraft_PlainsCamp,-539,-493,5266,5305
+RLCraft_SmallUndergroundSkeleton,-545,-537,5126,5134

@@ -1,0 +1,13 @@
+StoneLeafMound,-17412,-17403,1047,1054
+SmallWoodenCottage,-17397,-17389,1087,1098
+StonePlantMound3,-17384,-17375,1105,1116
+P_VillageBlacksmith,-17343,-17310,1060,1074
+P_Village2Story,-17341,-17328,1030,1036
+StoneIceBoulder,-17386,-17377,1214,1224
+RLCraft_SmallUndergroundSkeleton,-17335,-17327,1064,1072
+VillageWoodMill,-17306,-17290,1051,1064
+VillageTriplets,-17292,-17278,1030,1044
+SeasonsGreenhouse,-17287,-17277,1051,1063
+P_VillageFarmhouse,-17269,-17257,1034,1046
+ThreeTowers,-17268,-17236,1051,1082
+RLCraft_UndergroundFarm,-17318,-17276,1180,1223

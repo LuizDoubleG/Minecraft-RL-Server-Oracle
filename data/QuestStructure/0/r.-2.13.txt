@@ -1,0 +1,6 @@
+PeacefulCrypt,-1099,-1083,6769,6793
+BrickHenge,-1164,-1148,7006,7022
+StonePlantMound2,-1161,-1148,6763,6775
+StonePlantMound4,-1194,-1187,6890,6897
+StonePlantBoulder,-1219,-1209,6858,6868
+StoneBoulder,-1169,-1160,7096,7105

@@ -1,0 +1,16 @@
+StonePlantMound,1724,1729,-5061,-5056
+SmallWoodenCottage,1756,1767,-5090,-5082
+RLCraft_BasicSpider,1816,1816,-5035,-5035
+RLCraft_UndergroundRuin1,1810,1819,-5038,-5029
+StoneBoulder,1681,1690,-5080,-5071
+StonePlantMound4,1879,1886,-4996,-4989
+StonePlantBoulder,1796,1806,-4941,-4931
+StonePlantMound1,1879,1885,-4969,-4963
+StonePlantMound2,1665,1677,-5079,-5066
+StonePlantBoulder,1629,1639,-5044,-5034
+StoneLeafMound,1620,1627,-5013,-5004
+ThreeTowers,1582,1614,-5098,-5067
+VillageLargeLibrary,1611,1631,-5119,-5100
+WoodWallRemains,1791,1819,-4879,-4871
+StonePlantMound1,1631,1637,-4949,-4943
+StoneLeafMound,1935,1942,-4893,-4884

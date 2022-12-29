@@ -1,0 +1,5 @@
+ShrineSmallAir,-1305,-1297,-4677,-4669
+RLCraft_BasicSkeleton,-1431,-1431,-4794,-4794
+RLCraft_UndergroundRuin1,-1437,-1428,-4797,-4788
+RLCraft_SmallUndergroundSkeleton,-1462,-1454,-5010,-5002
+StonePlantBoulder,-1511,-1501,-5098,-5088

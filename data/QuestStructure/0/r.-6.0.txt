@@ -1,0 +1,15 @@
+RLCraft_DecentSkeleton,-3112,-3112,-79,-79
+RLCraft_UndergroundRuin3,-3114,-3106,-84,-76
+P_SmallShip,-3162,-3142,-57,-51
+PeacefulCrypt,-3253,-3237,-362,-338
+P_VillageLibrary,-3280,-3261,-430,-414
+VillageLargeLibrary,-3249,-3229,-430,-411
+ThreeTowers,-3216,-3185,-457,-425
+StonePlantMound4,-3108,-3101,-445,-438
+P_VillageFarmhouse,-3251,-3239,-455,-443
+VillageWoodMill,-3274,-3258,-455,-442
+VillageHouseRich1,-3311,-3290,-458,-440
+P_Village2Story,-3310,-3304,-487,-474
+StonePlantMound2,-3126,-3113,-513,-501
+RLCraft_DecentSkeleton,-3425,-3425,-495,-495
+RLCraft_UndergroundRuin3,-3428,-3420,-501,-493

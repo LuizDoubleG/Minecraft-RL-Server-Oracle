@@ -1,0 +1,6 @@
+RLCraft_DecentCaveSpider,-3190,-3190,3448,3448
+RLCraft_UndergroundRuin3,-3195,-3187,3442,3450
+RLCraft_DecentZombie,-3207,-3207,3457,3457
+RLCraft_UndergroundRuin3,-3212,-3204,3451,3459
+ShrineSmallWater,-3359,-3351,3509,3517
+ClayWaterMound1,-3370,-3359,3319,3329

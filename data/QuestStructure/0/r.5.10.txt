@@ -1,0 +1,6 @@
+ShrineSmallAir,2975,2983,5426,5434
+StoneBoulder,2964,2973,5434,5443
+RLCraft_BasicSpider,2999,2999,5472,5472
+RLCraft_UndergroundRuin1,2996,3005,5466,5475
+RLCraft_DecentSkeleton,2997,2997,5491,5491
+RLCraft_UndergroundRuin3,2994,3002,5485,5493

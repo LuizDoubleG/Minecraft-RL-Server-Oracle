@@ -1,0 +1,13 @@
+StoneLeafMound,-1385,-1378,9589,9598
+SmallFortRuins,-1545,-1515,9695,9727
+SmallWoodenCottage,-1492,-1484,9703,9714
+StonePlantMound2,-1540,-1527,9652,9664
+RLCraft_SmallUndergroundSkeleton,-1538,-1530,9622,9630
+SmallFortRuinsJapanese,-1380,-1334,9503,9549
+RLCraft_SmallUndergroundSkeleton,-1498,-1490,9462,9470
+StonePlantMound4,-1475,-1468,9439,9446
+MysticalTree1,-1515,-1504,9415,9428
+MeteorSite,-1462,-1447,9416,9446
+BlazeSpawnerCrystal,-1535,-1529,9369,9375
+DinosaurSkeleton,-1547,-1501,9321,9330
+BrickHenge,-1430,-1414,9238,9254

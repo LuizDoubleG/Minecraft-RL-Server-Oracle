@@ -1,0 +1,13 @@
+StoneLeafMound,-2571,-2562,9873,9880
+StoneLeafMound,-2596,-2587,9878,9885
+SmallAbandonedMine,-2648,-2633,9845,9870
+StonePlantMound,-2643,-2638,9889,9894
+RLCraft_FriendlyOutpost,-2694,-2655,9710,9778
+SpiderPit,-2688,-2679,9889,9899
+SmallAbandonedMine,-2785,-2760,9746,9761
+UndergroundTreeoid,-2826,-2803,9849,9875
+RLCraft_DecentSkeleton,-2896,-2896,9740,9740
+RLCraft_UndergroundRuin3,-2901,-2893,9734,9742
+WoodThorn,-2958,-2947,9797,9808
+RLCraft_BasicWitch,-2975,-2975,9829,9829
+RLCraft_UndergroundRuin1,-2981,-2972,9823,9832

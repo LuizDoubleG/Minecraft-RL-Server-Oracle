@@ -1,0 +1,10 @@
+VillageForgeLarge,-17373,-17357,1009,1021
+P_VillageHouse,-17342,-17331,1007,1016
+StonePlantMound3,-17286,-17275,963,972
+ShrineSmallAir,-17308,-17300,920,928
+StonePlantMound4,-17311,-17304,873,880
+StonePlantMound4,-17261,-17254,889,896
+SmallWoodenCottage,-17284,-17273,895,903
+RLCraft_LargeUndergroundTown,-17391,-17254,840,953
+RLCraft_Vineyard,-17269,-17249,995,1023
+MeteorSite,-17245,-17230,887,917

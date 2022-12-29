@@ -1,0 +1,3 @@
+DesertWatchtower,1682,1692,-1295,-1285
+SmallClockworkSite,1606,1628,-1303,-1284
+ShrineSmallFire,1553,1563,-1437,-1427

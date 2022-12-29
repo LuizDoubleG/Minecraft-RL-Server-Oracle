@@ -1,0 +1,3 @@
+RLCraft_DecentSkeleton,3461,3461,-3587,-3587
+RLCraft_UndergroundRuin2,3456,3463,-3592,-3582
+P_SmallShip,3309,3329,-3868,-3862

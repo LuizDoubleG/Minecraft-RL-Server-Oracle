@@ -1,0 +1,2 @@
+StonePlantMound4,-3701,-3694,-1267,-1260
+SmallAbandonedMine,-3716,-3701,-1360,-1335

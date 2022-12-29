@@ -1,0 +1,3 @@
+ShrineSmallWater,-4148,-4140,3333,3341
+P_SmallShip,-4359,-4339,3322,3328
+ShrineSmallAir,-4542,-4534,3510,3518

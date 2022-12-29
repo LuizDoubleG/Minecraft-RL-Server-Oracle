@@ -1,0 +1,10 @@
+DinosaurSkeleton,1225,1234,4422,4468
+TribalJungleHead,1252,1262,4503,4513
+RLCraft_DecentWitch,1312,1312,4389,4389
+RLCraft_UndergroundRuin3,1310,1318,4384,4392
+BlazeSpawnerCrystal,1378,1384,4324,4330
+DinosaurSkeleton,1388,1397,4469,4515
+RLCraft_DecentSpider,1397,1397,4469,4469
+RLCraft_UndergroundRuin2,1395,1402,4464,4474
+DinosaurSkull,1510,1521,4428,4447
+GiganticTree,1490,1568,4335,4404

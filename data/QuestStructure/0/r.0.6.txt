@@ -1,0 +1,3 @@
+StonePlantMound4,428,435,3489,3496
+RLCraft_SmallUndergroundSkeleton,-465,-457,3154,3162
+SmallClockworkSite,-439,-420,3176,3198

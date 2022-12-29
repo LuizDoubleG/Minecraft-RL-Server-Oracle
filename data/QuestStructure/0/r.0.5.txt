@@ -1,0 +1,6 @@
+ShrineSmallFire,-239,-229,2916,2926
+P_DesertDungeon,-93,-40,2917,2969
+RLCraft_DecentSpider,-56,-56,3024,3024
+RLCraft_UndergroundRuin2,-61,-51,3019,3026
+RLCraft_BasicSpider,-380,-380,2781,2781
+RLCraft_UndergroundRuin1,-386,-377,2775,2784

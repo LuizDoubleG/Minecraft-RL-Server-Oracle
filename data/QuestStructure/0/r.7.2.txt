@@ -1,0 +1,17 @@
+StonePlantMound4,3605,3612,1518,1525
+StoneLeafMound,3778,3787,1442,1449
+StonePlantMound,3624,3629,1382,1387
+StonePlantMound2,3748,3760,1422,1435
+RLCraft_BasicZombie,3708,3708,1389,1389
+RLCraft_UndergroundRuin1,3702,3711,1386,1395
+VillageHouseRich1,3715,3733,1345,1366
+VillageTriplets,3732,3746,1323,1337
+P_VillageFarmhouse,3716,3728,1323,1335
+StoneLeafMound,3612,3619,1302,1311
+StoneLeafMound,3757,3764,1302,1311
+VillageMarketplace,3750,3764,1304,1318
+P_VillageHouse,3720,3729,1286,1297
+SeasonsGreenhouse,3756,3766,1286,1298
+RLCraft_BasicCaveSpider,3719,3719,1276,1276
+RLCraft_UndergroundRuin1,3713,3722,1270,1279
+StonePlantMound,3630,3635,1256,1261

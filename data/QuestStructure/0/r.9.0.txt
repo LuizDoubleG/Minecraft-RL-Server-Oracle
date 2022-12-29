@@ -1,0 +1,11 @@
+DinosaurSkull,4879,4898,63,74
+StonePlantMound3,4986,4997,36,45
+StonePlantMound1,4900,4906,129,135
+StonePlantBoulder,4914,4924,150,160
+RLCraft_BasicZombie,4727,4727,195,195
+RLCraft_UndergroundRuin1,4724,4733,192,201
+SmallOutpost,4901,4923,172,202
+RLCraft_SmallUndergroundSkeleton,5021,5029,-106,-98
+SmallAbandonedMine,5049,5074,75,90
+ShrineSmallFire,4879,4889,-175,-165
+MeteorSite,4910,4940,-222,-207

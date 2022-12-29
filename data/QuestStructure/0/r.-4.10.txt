@@ -1,0 +1,9 @@
+RLCraft_SmallUndergroundSkeleton,-2098,-2090,5232,5240
+ShrineSmallFire,-2110,-2100,5276,5286
+StoneBoulder,-2156,-2147,5136,5145
+RLCraft_SmallUndergroundSkeleton,-2263,-2255,5227,5235
+RLCraft_DecentZombie,-2355,-2355,5273,5273
+RLCraft_UndergroundRuin2,-2360,-2350,5271,5278
+RLCraft_DecentWitch,-2249,-2249,5304,5304
+RLCraft_UndergroundRuin3,-2255,-2247,5301,5309
+P_SmallShip,-2302,-2282,5321,5327
