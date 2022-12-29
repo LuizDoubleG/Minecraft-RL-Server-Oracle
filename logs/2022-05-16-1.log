@@ -1,0 +1,29 @@
+[02:51:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:51:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:51:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:51:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[02:51:30] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_311, running on Linux:aarch64:5.4.17-2136.302.6.1.el7uek.aarch64, installed at /usr/java/jdk1.8.0_311-aarch64/jre
+[02:51:30] [main/INFO] [FML]: Searching /home/opc/./mods for mods
+[02:51:30] [main/WARN] [FML]: The coremod org.minimallycorrect.libloader.LibLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:51:30] [main/WARN] [FML]: The coremod LibLoader (org.minimallycorrect.libloader.LibLoader) is not signed!
+[02:51:30] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [___MixinCompat-0.8___].jar
+[02:51:30] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[02:51:30] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from BedBreakBegone-1.0.0.jar
+[02:51:30] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in BetterFoliage-MC1.12-2.3.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:51:30] [main/WARN] [FML]: The coremod BetterFoliageLoader (mods.betterfoliage.loader.BetterFoliageLoader) is not signed!
+[02:51:30] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:51:30] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:51:30] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Born In A Barn V1.8-1.12-1.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:51:30] [main/WARN] [FML]: The coremod com.chocohead.biab.BornInABarn does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:51:30] [main/WARN] [FML]: The coremod Born in a Barn (com.chocohead.biab.BornInABarn) is not signed!
+[02:51:30] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Charm-1.12.2-1.4.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:51:30] [main/WARN] [FML]: The coremod svenhjol.charm.base.CharmLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:51:30] [main/WARN] [FML]: The coremod CharmLoadingPlugin (svenhjol.charm.base.CharmLoadingPlugin) is not signed!
+[02:51:30] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-MC1.12-1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:51:30] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:51:30] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[02:51:30] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.69_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:51:30] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:51:30] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[02:51:30] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.2.1.jar
+[02:51:30] [main/WARN] [FML]: Found FMLCorePluginCon

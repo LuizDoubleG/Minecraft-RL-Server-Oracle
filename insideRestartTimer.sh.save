@@ -1,0 +1,11 @@
+#!/bin/bash/
+i=0
+while true 
+do
+if [ $i ]
+then
+screen -S RLcraft -X eval 'stuff "scoreboard players set #remaining TIMER 430\015"'
+sleep 30m
+screen -S RLcraft -X eval 'stuff "scoreboard players remove #remaining TIMER 30\015"'
+
+

@@ -1,0 +1,513 @@
+[00:00:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Mobs_Killed'
+[00:01:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Time_Played'
+[00:02:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Deaths'
+[00:03:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Mobs_Killed'
+[00:04:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Time_Played'
+[00:05:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Deaths'
+[00:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Mobs_Killed'
+[00:07:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Time_Played'
+[00:08:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Deaths'
+[00:09:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of TIMER for player #remaining to 30
+[00:09:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Mobs_Killed'
+[00:10:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Time_Played'
+[00:11:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Deaths'
+[00:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Mobs_Killed'
+[00:13:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Time_Played'
+[00:14:33] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[00:14:33] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[00:14:33] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.[01:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:00:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Mobs_Killed'
+[01:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[01:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExe[01:59:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Deaths'
+[02:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:00:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:00:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Mobs_Killed'
+[02:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:03] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:48] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:01:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Time_Played'
+[02:02:33] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:02:33] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:02:33] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:02:33] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:02:33] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:02:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Deaths'
+[02:03:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:03:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:03:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:03:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:03:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.cre[02:47:33] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:47:33] [File IO Thread/WARN] [FML]: Unable to write forced chunk data to /home/opc/./world/forcedchunks.dat - chunkloading won't work
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.write(Native Method) ~[?:1.8.0_311]
+	at java.io.FileOutputStream.write(FileOutputStream.java:290) ~[?:1.8.0_311]
+	at java.io.DataOutputStream.writeByte(DataOutputStream.java:153) ~[?:1.8.0_311]
+	at net.minecraft.nbt.CompressedStreamTools.func_150663_a(CompressedStreamTools.java:107) ~[gi.class:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74800_a(CompressedStreamTools.java:102) ~[gi.class:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:152) ~[gi.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.lambda$saveWorld$1(ForgeChunkManager.java:958) ~[ForgeChunkManager.class:14.23.5.2860]
+	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37) [bgx.class:?]
+	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30) [bgx.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:47:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the display objective in slot 'sidebar' to 'Deaths'
+[02:48:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:48:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_311]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
+[02:48:18] [pool-2-thread-1/ERROR] [betterquesting]: An error occured while saving JSON to file (Directory setup):
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:1.8.0_311]
+	at java.io.File.createNewFile(File.java:1021) ~[?:1.8.0_311]
+	at betterquesting.api.utils.JsonHelper.lambda$WriteToFile$1(JsonHelper.java:185) ~[JsonHelper.class:?]
+	at[02:59:41] [Server thread/INFO] [TNTUtils Core]: About to patch obfuscated class amp (net.minecraft.world.Explosion)
+[02:59:41] [Server thread/INFO] [TNTUtils Core]: Successfully injected into func_77279_a(Z)V
+[02:59:41] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[02:59:41] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[02:59:42] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[02:59:42] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[02:59:42] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[02:59:42] [Server thread/INFO] [Quark ASM]: Patch result: true
+[02:59:43] [Server thread/INFO] [Pulsar-inspirations]: Skipping Pulse ToughAsNailsPlugin; missing dependency: toughasnails
+[02:59:43] [Server thread/INFO] [Pulsar-inspirations]: Skipping Pulse TheOneProbePlugin; missing dependency: theoneprobe
+[02:59:43] [Server thread/INFO] [Pulsar-inspirations]: Skipping Pulse WailaPlugin; missing dependency: waila
+[02:59:43] [Server thread/INFO] [Pulsar-inspirations]: Skipping Pulse LeatherWorks; missing dependency: leatherworks
+[02:59:43] [Server thread/INFO] [Pulsar-inspirations]: Skipping Pulse RatsPlugin; missing dependency: rats
+[02:59:43] [Server thread/INFO] [Pulsar-inspirations]: Skipping Pulse TwilightForestPlugin; missing dependency: twilightforest
+[02:59:44] [Server thread/INFO] [testdummy]: Please don't hurt me. :S
+[02:59:44] [Server thread/ERROR] [FML]: The mod notreepunching is expecting signature 3c2d6be715971d1ed58a028cdb3fae72987fc934 for source notreepunching-2.0.21.jar, however there is no signature matching that description
+[02:59:44] [Server thread/ERROR] [FML]: The mod reborncore is expecting signature 8727a3141c8ec7f173b87aa78b9b9807867c4e6b for source RebornCore-1.12.2-3.19.5-universal.jar, however there is no signature matching that description
+[02:59:44] [Server thread/ERROR] [reborncore]: Invalid fingerprint detected for RebornCore!
+[02:59:44] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 4) in net/minecraftforge/fluids/BlockFluidClassic func_180650_b
+[02:59:45] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[02:59:45] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.item.ItemModAxe!
+[02:59:45] [Server thread/INFO] [ISeeDragons]: Applying patch [Ice and Fire Axe fix] Make ItemModAxe extend ItemAxe and remove EFFECTIVE_ON hard-coded list
+[02:59:45] [Server thread/INFO] [ISeeDragons]: Writing class com.github.alexthe666.iceandfire.item.ItemModAxe with flags None
+[02:59:46] [Server thread/INFO] [FML]: Found 1891 ObjectHolder annotations
+[02:59:46] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[02:59:46] [Server thread/INFO] [FML]: Found 17 ItemStackHolder annotations
+[02:59:46] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 8
+[02:59:46] [Server thread/INFO] [STDOUT]: [com.charles445.rltweaker.asm.RLTweakerASM:transform:75]: Patch exists for net.minecraft.world.storage.loot.functions.EnchantRandomly
+[02:59:46] [Server thread/INFO] [STDOUT]: [com.charles445.rltweaker.asm.RLTweakerASM:transform:112]: Writing class net.minecraft.world.storage.loot.functions.EnchantRandomly with flags MAXS
+[02:59:46] [Server thread/INFO] [AUW]: Starting[B] DS...
+[02:59:47] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception 

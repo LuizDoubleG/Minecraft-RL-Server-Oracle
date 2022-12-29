@@ -1,0 +1,83 @@
+{
+  "version": 1,
+    "data": {
+        "TEST": [
+            "antiqueatlas:textures/gui/tiles/test.png",
+            "antiqueatlas:textures/gui/tiles/test.png"
+        ],
+        "DL_DESERT": [
+            "antiqueatlas:textures/gui/tiles/dl_sand.png",
+            "antiqueatlas:textures/gui/tiles/dl_sand2.png",
+            "antiqueatlas:textures/gui/tiles/dl_sand3.png"
+        ],
+        "DL_TENEBRA": [
+            "antiqueatlas:textures/gui/tiles/dl_forest.png",
+            "antiqueatlas:textures/gui/tiles/dl_forest2.png",
+            "antiqueatlas:textures/gui/tiles/dl_forest3.png"
+        ],
+        "DL_VILESPINE": [
+            "antiqueatlas:textures/gui/tiles/dl_forest.png",
+            "antiqueatlas:textures/gui/tiles/dl_forest2.png",
+            "antiqueatlas:textures/gui/tiles/dl_forest3.png"
+        ],
+        "DL_HILLS": [
+            "antiqueatlas:textures/gui/tiles/dl_forest_hills.png",
+            "antiqueatlas:textures/gui/tiles/dl_forest_hills2.png",
+            "antiqueatlas:textures/gui/tiles/dl_forest_hills3.png"
+        ],
+        "DL_ICE": [
+            "antiqueatlas:textures/gui/tiles/dl_snow1.png",
+            "antiqueatlas:textures/gui/tiles/dl_snow2.png",
+            "antiqueatlas:textures/gui/tiles/dl_snow3.png",
+            "antiqueatlas:textures/gui/tiles/dl_snow4.png",
+            "antiqueatlas:textures/gui/tiles/dl_snow5.png",
+            "antiqueatlas:textures/gui/tiles/dl_snow6.png"
+        ],
+        "DL_PLAINS": [
+            "antiqueatlas:textures/gui/tiles/dl_grass.png",
+            "antiqueatlas:textures/gui/tiles/dl_grass2.png",
+            "antiqueatlas:textures/gui/tiles/dl_grass3.png"
+        ],
+        "DL_SWAMP": [
+            "antiqueatlas:textures/gui/tiles/dl_swamp.png",
+            "antiqueatlas:textures/gui/tiles/dl_swamp2.png",
+            "antiqueatlas:textures/gui/tiles/dl_swamp3.png",
+            "antiqueatlas:textures/gui/tiles/dl_swamp4.png",
+            "antiqueatlas:textures/gui/tiles/dl_swamp5.png",
+            "antiqueatlas:textures/gui/tiles/dl_swamp6.png"
+        ],
+        "T_AUTUMN_HILLS": [
+            "antiqueatlas:textures/gui/tiles/t_autumn_forest_hills.png",
+            "antiqueatlas:textures/gui/tiles/t_autumn_forest_hills2.png",
+            "antiqueatlas:textures/gui/tiles/t_autumn_forest_hills3.png"
+        ],
+        "T_AUTUMN": [
+            "antiqueatlas:textures/gui/tiles/t_autumn_forest.png",
+            "antiqueatlas:textures/gui/tiles/t_autumn_forest2.png",
+            "antiqueatlas:textures/gui/tiles/t_autumn_forest3.png"
+        ],
+        "T_CANYON": [
+            "antiqueatlas:textures/gui/tiles/t_canyon.png",
+            "antiqueatlas:textures/gui/tiles/t_canyon2.png",
+            "antiqueatlas:textures/gui/tiles/t_canyon3.png"
+        ],
+        "T_CRAG": [
+            "antiqueatlas:textures/gui/tiles/t_crag_mountains.png",
+            "antiqueatlas:textures/gui/tiles/t_crag_mountains2.png",
+            "antiqueatlas:textures/gui/tiles/t_crag_mountains3.png",
+            "antiqueatlas:textures/gui/tiles/t_crag_mountains4.png"
+        ],
+        "T_RED_DESERT": [
+            "antiqueatlas:textures/gui/tiles/t_red_sand.png",
+            "antiqueatlas:textures/gui/tiles/t_red_sand2.png",
+            "antiqueatlas:textures/gui/tiles/t_red_sand3.png"
+        ],
+        "T_ROCKY_PLATEAU": [
+            "antiqueatlas:textures/gui/tiles/plateau_grass.png",
+            "antiqueatlas:textures/gui/tiles/plateau_grass2.png",
+            "antiqueatlas:textures/gui/tiles/plateau_grass3.png",
+			"antiqueatlas:textures/gui/tiles/plateau_trees.png",
+			"antiqueatlas:textures/gui/tiles/plateau_trees_low.png"
+        ]
+    }
+}
